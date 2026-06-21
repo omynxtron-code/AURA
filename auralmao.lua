@@ -106,7 +106,7 @@ local function Aura(character)
 	-- 🔊 SOUND ON LOAD
 	local Sound = Instance.new("Sound")
 	Sound.SoundId = "rbxassetid://136391385725568"
-	Sound.Volume = 1
+	Sound.Volume = 3.5
 	Sound.RollOffMaxDistance = 80
 	Sound.Parent = head
 	Sound:Play()
